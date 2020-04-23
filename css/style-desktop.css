@@ -133,17 +133,15 @@
 			#nav > ul > li > a:hover
 			{
 				color: #FFF;
-			}
+			}r
 
-			#nav li.active a
-			{
-				color: #FFF;
-			}
 
+
+/*
 			#nav > ul > li > ul
 			{
 				display: none;
-			}
+			}*/
 
 /*********************************************************************************/
 /* Main                                                                          */

@@ -83,9 +83,13 @@
 		font-style: italic;
 	}
 	
-	p, ul, ol, dl, table
+	#head
 	{
 		margin-bottom: 1em;
+	}
+
+	tbody {
+		border: solid black 1px; padding: 1em; width: 60px;
 	}
 
 	header
@@ -337,8 +341,8 @@
 	{
 	}
 	
-	#copyright a
+	#copyright p
 	{
 		text-decoration: none;
-		color: rgba(255,255,255,.3);
+		color:white;
 	}		
